@@ -1,0 +1,10 @@
+"indicator","PLS_RMSE","LM_RMSE","PLS_better"
+"sat1",1.356,1.349,FALSE
+"sat2",1.434,1.433,FALSE
+"sat3",1.45,1.469,TRUE
+"tr1",1.627,1.658,TRUE
+"tr2",1.634,1.665,TRUE
+"tr3",1.414,1.445,TRUE
+"loy1",1.737,1.759,TRUE
+"loy2",1.488,1.491,TRUE
+"loy3",1.217,1.227,TRUE

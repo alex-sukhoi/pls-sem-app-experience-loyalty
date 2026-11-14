@@ -1,0 +1,6 @@
+"outcome","predictor","VIF"
+"SAT","UX",NA
+"TRUST","UX",1.236
+"TRUST","SAT",1.236
+"LOY","SAT",1.107
+"LOY","TRUST",1.107

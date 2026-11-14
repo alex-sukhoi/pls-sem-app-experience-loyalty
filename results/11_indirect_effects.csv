@@ -1,0 +1,5 @@
+"path","estimate","ci_low","ci_high"
+"UX -> SAT -> TRUST",0.106,0.045,0.17
+"SAT -> TRUST -> LOY",0.064,0.026,0.11
+"UX -> SAT -> TRUST -> LOY",0.028,0.011,0.049
+"UX -> TRUST -> LOY",0.042,0.01,0.085
